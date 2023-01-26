@@ -1,4 +1,4 @@
-## Olá, Bem Vindo" Sou Suelen Francisco Marques 😄
+## Olá, Bem Vindo! Me chamo Suelen Francisco Marques 😄
 
 Atualmente estou em busca de conhecimento, estudando automação de teste com Cypress... 
 

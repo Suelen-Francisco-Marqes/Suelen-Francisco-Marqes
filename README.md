@@ -1,10 +1,10 @@
-### Olá! Bem Vindo 😄
+## Olá! Bem Vindo 😄
 
 Atualmente estou estudando automação de teste com Cypress... 
 
 - Você pode se conectar comigo pelo [Linkedin](https://www.linkedin.com/in/suelen-francisco-marques-4231b5172/)<br>
 
-## Linguaguens e ferramentas
+### Linguaguens e ferramentas
 
 <div style="display: inline_block"><br>
 <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />

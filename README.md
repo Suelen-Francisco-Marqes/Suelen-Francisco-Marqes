@@ -1,6 +1,6 @@
 ## Olá, Bem Vindo! Me chamo Suelen Francisco Marques 😄
 
-Formada em Analise e Desenvolvimento de Sistemas
+Formada em Analise e Desenvolvimento de Sistemas <br>
 Atualmente estou em busca de conhecimento, estudando automação de teste com Cypress... 
 
 - Você pode se conectar comigo pelo [Linkedin](https://www.linkedin.com/in/suelen-francisco-marques-4231b5172/)<br>

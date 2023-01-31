@@ -1,5 +1,6 @@
 ## Olá, Bem Vindo! Me chamo Suelen Francisco Marques 😄
 
+Formada em Analise e Desenvolvimento de Sistemas
 Atualmente estou em busca de conhecimento, estudando automação de teste com Cypress... 
 
 - Você pode se conectar comigo pelo [Linkedin](https://www.linkedin.com/in/suelen-francisco-marques-4231b5172/)<br>
@@ -14,7 +15,7 @@ Atualmente estou em busca de conhecimento, estudando automação de teste com Cy
 <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
